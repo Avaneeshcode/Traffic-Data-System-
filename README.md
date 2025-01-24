@@ -6,4 +6,5 @@ This Python program analyzes traffic data from CSV files, performs various compu
 - Detailed traffic metrics like vehicle counts, speed violations, and junction-specific data.
 - Visualization of hourly traffic trends through histograms using Tkinter.
 - Automated report generation in a text file for processed data.
+
 The tool allows multiple CSV file processing for different dates, ensuring an efficient workflow for traffic data analysis and visualization.
